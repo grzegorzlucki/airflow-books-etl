@@ -5,15 +5,17 @@
 This project automates the Extraction, Transformation, and Loading (ETL) process of Amazon books data using Apache Airflow. The extracted data is transformed into a structured format suitable for analysis and visualization in tools like Power BI.
 
 ### Project Structure
-|-- dags
-|   |-- books_dashboard_ETL.py       # Airflow DAG definition file
-|-- dashboard
-|   |-- books_extracted.csv          # Processed data for Power BI dashboard
-|   |-- Books_dashboard.pbix         # Power BI dashboard file
-|-- data
-|   |-- Books_df.csv                 # Raw data: Books information
-|   |-- Genre_df.csv                 # Raw data: Genre information
-|-- README.md                         # Project documentation
+.
+├── dags
+│   └── books_dashboard_ETL.py       # Airflow DAG definition file
+├── dashboard
+│   ├── books_extracted.csv          # Processed data for Power BI dashboard
+│   └── Books_dashboard.pbix         # Power BI dashboard file
+├── data
+│   ├── Books_df.csv                 # Raw data: Books information
+│   └── Genre_df.csv                 # Raw data: Genre information
+├── images                           # Folder for images related to documentation
+└── README.md                        # Project documentation
 
 
 ## DAG Description
