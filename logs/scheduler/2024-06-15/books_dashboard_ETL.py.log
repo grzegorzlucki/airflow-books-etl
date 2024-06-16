@@ -1,0 +1,60 @@
+[2024-06-15 10:30:02,832] {processor.py:153} INFO - Started process (PID=42) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:30:02,833] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:30:02,835] {logging_mixin.py:115} INFO - [2024-06-15 10:30:02,834] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:30:04,276] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:30:04,369] {logging_mixin.py:115} INFO - [2024-06-15 10:30:04,369] {manager.py:508} INFO - Created Permission View: can read on DAG:books_dashboard_ETL
+[2024-06-15 10:30:04,389] {logging_mixin.py:115} INFO - [2024-06-15 10:30:04,389] {manager.py:508} INFO - Created Permission View: can delete on DAG:books_dashboard_ETL
+[2024-06-15 10:30:04,407] {logging_mixin.py:115} INFO - [2024-06-15 10:30:04,407] {manager.py:508} INFO - Created Permission View: can edit on DAG:books_dashboard_ETL
+[2024-06-15 10:30:04,408] {logging_mixin.py:115} INFO - [2024-06-15 10:30:04,407] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:30:04,420] {logging_mixin.py:115} INFO - [2024-06-15 10:30:04,420] {dag.py:2390} INFO - Creating ORM DAG for books_dashboard_ETL
+[2024-06-15 10:30:04,448] {logging_mixin.py:115} INFO - [2024-06-15 10:30:04,448] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:30:04,506] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 1.679 seconds
+[2024-06-15 10:30:49,272] {processor.py:153} INFO - Started process (PID=115) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:30:49,272] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:30:49,273] {logging_mixin.py:115} INFO - [2024-06-15 10:30:49,273] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:30:49,691] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:30:49,712] {logging_mixin.py:115} INFO - [2024-06-15 10:30:49,712] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:30:49,732] {logging_mixin.py:115} INFO - [2024-06-15 10:30:49,732] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:30:49,804] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 0.536 seconds
+[2024-06-15 10:31:20,040] {processor.py:153} INFO - Started process (PID=171) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:20,041] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:31:20,042] {logging_mixin.py:115} INFO - [2024-06-15 10:31:20,042] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:20,561] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:20,606] {logging_mixin.py:115} INFO - [2024-06-15 10:31:20,606] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:31:20,632] {logging_mixin.py:115} INFO - [2024-06-15 10:31:20,632] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:31:20,776] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 0.739 seconds
+[2024-06-15 10:31:23,759] {processor.py:153} INFO - Started process (PID=194) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:23,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:31:23,763] {logging_mixin.py:115} INFO - [2024-06-15 10:31:23,763] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:24,388] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:24,421] {logging_mixin.py:115} INFO - [2024-06-15 10:31:24,420] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:31:24,453] {logging_mixin.py:115} INFO - [2024-06-15 10:31:24,453] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:31:24,478] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 0.724 seconds
+[2024-06-15 10:31:54,622] {processor.py:153} INFO - Started process (PID=249) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:54,623] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:31:54,623] {logging_mixin.py:115} INFO - [2024-06-15 10:31:54,623] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:55,040] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:31:55,063] {logging_mixin.py:115} INFO - [2024-06-15 10:31:55,063] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:31:55,085] {logging_mixin.py:115} INFO - [2024-06-15 10:31:55,085] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:31:55,103] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 0.485 seconds
+[2024-06-15 10:32:25,350] {processor.py:153} INFO - Started process (PID=314) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:32:25,351] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:32:25,352] {logging_mixin.py:115} INFO - [2024-06-15 10:32:25,352] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:32:25,915] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:32:25,941] {logging_mixin.py:115} INFO - [2024-06-15 10:32:25,941] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:32:25,971] {logging_mixin.py:115} INFO - [2024-06-15 10:32:25,970] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:32:25,987] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 0.640 seconds
+[2024-06-15 10:32:56,301] {processor.py:153} INFO - Started process (PID=369) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:32:56,302] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:32:56,303] {logging_mixin.py:115} INFO - [2024-06-15 10:32:56,303] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:32:56,839] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:32:56,863] {logging_mixin.py:115} INFO - [2024-06-15 10:32:56,863] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:32:56,897] {logging_mixin.py:115} INFO - [2024-06-15 10:32:56,897] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:32:56,914] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 0.617 seconds
+[2024-06-15 10:33:20,463] {processor.py:153} INFO - Started process (PID=415) to work on /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:33:20,464] {processor.py:641} INFO - Processing file /opt/airflow/dags/books_dashboard_ETL.py for tasks to queue
+[2024-06-15 10:33:20,465] {logging_mixin.py:115} INFO - [2024-06-15 10:33:20,464] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:33:21,310] {processor.py:651} INFO - DAG(s) dict_keys(['books_dashboard_ETL']) retrieved from /opt/airflow/dags/books_dashboard_ETL.py
+[2024-06-15 10:33:21,342] {logging_mixin.py:115} INFO - [2024-06-15 10:33:21,340] {dag.py:2371} INFO - Sync 1 DAGs
+[2024-06-15 10:33:21,366] {logging_mixin.py:115} INFO - [2024-06-15 10:33:21,366] {dag.py:2919} INFO - Setting next_dagrun for books_dashboard_ETL to 2024-01-01T00:00:00+00:00, run_after=2024-01-02T00:00:00+00:00
+[2024-06-15 10:33:21,385] {processor.py:161} INFO - Processing /opt/airflow/dags/books_dashboard_ETL.py took 0.925 seconds
