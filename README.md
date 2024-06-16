@@ -6,14 +6,15 @@ This project automates the Extraction, Transformation, and Loading (ETL) process
 
 ### Project Structure
 |-- dags
-| |-- books_dashboard_ETL.py # Airflow DAG definition file
+|   |-- books_dashboard_ETL.py       # Airflow DAG definition file
 |-- dashboard
-| |-- books_extracted.csv # Processed data for Power BI dashboard
-| |-- Books_dashboard.pbix # Power BI dashboard file
+|   |-- books_extracted.csv          # Processed data for Power BI dashboard
+|   |-- Books_dashboard.pbix         # Power BI dashboard file
 |-- data
-| |-- Books_df.csv # Raw data: Books information
-| |-- Genre_df.csv # Raw data: Genre information
-|-- README.md # Project documentation
+|   |-- Books_df.csv                 # Raw data: Books information
+|   |-- Genre_df.csv                 # Raw data: Genre information
+|-- README.md                         # Project documentation
+
 
 ## DAG Description
 
