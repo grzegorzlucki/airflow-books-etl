@@ -54,7 +54,7 @@ The Airflow DAG automates the following tasks:
 - **Import `books_extracted.csv`**: Use the `books_extracted.csv` file in Power BI to create insightful visualizations and reports based on the processed data.
 - **Dashboard File**: The `Books_dashboard.pbix` file in the `dashboard` folder is a pre-configured Power BI dashboard that you can further customize based on your analysis requirements.
 
-![Dashboard view](images/view.png)
+![Dashboard view](images/dashboard_view.png)
 
 ## Requirements
 
@@ -67,4 +67,4 @@ Ensure you have the following installed:
 
 ## DAG Visualization
 
-![DAG Visualization](<URL to DAG Visualization Image>)
+![DAG Visualization](images/airflow_view.png)
